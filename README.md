@@ -1,3 +1,5 @@
+<img width="1400" alt="CTRL-AMIT-Rise_and_Shine-Nexus_Banner_2" src="https://github.com/user-attachments/assets/678026e7-6f27-467c-8a64-6d4303144c7a" />
+
 # CONTROL <Rise & Shine>
 A little shiny approach to recolours.
 
@@ -31,6 +33,24 @@ Delete the following:
 <br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_sweatpants_d.tex`
 <br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_sweatsuit_socks_d.tex`
 <br>`data_pc\textures\characters\andro\jesse\tops\jesse_sweatshirt_d.tex`
+
+## Status
+
+| Outfit                | Status   | Release | File     |
+|-----------------------|:--------:|:-------:|:--------:|
+| Astral Dive           | Expanding | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/astraldive_100) |
+| Asynchronous Suit     | Ongoing  | -       | -        |
+| Candidate P7          | Expanding | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/candidatep7_100) |
+| Civilian              | Started  | -       | -        |
+| Director's Suit       | -        | -       | -        |
+| Expedition Gear       | -        | -       | -        |
+| Golden Suit           | -        | -       | -        |
+| Janitor's Assistant   | -        | -       | -        |
+| Office Assistant      | -        | -       | -        |
+| Tactical Response     | -        | -       | -        |
+| Urban Response        | -        | -       | -        |
+| Cat Ears              | -        | -       | -        |
+| Extradimensional Suit | -        | -       | -        |
 
 - Please note that these retextures will conflict with other retextures listed above, so please make sure that you have removed any `[retexture]_n.tex`, `[retexture]_s.tex` and/or `[retexture]_sa.tex` that belong to other retextures.
 - In some instances you may have to exist and boot up the game again to see results. 
