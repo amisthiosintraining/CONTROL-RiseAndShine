@@ -36,21 +36,21 @@ Delete the following:
 
 ## Status
 
-| Outfit                | Status   | Release | File     |
-|-----------------------|:--------:|:-------:|:--------:|
+| Outfit                | Status    | Release | File     |
+|-----------------------|:---------:|:-------:|:--------:|
 | Astral Dive           | Expanding | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/astraldive_100) |
-| Asynchronous Suit     | Ongoing  | -       | -        |
+| Asynchronous Suit     | Ongoing   | -       | -        |
 | Candidate P7          | Expanding | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/candidatep7_100) |
-| Civilian              | Started  | -       | -        |
-| Director's Suit       | -        | -       | -        |
-| Expedition Gear       | -        | -       | -        |
-| Golden Suit           | -        | -       | -        |
-| Janitor's Assistant   | -        | -       | -        |
-| Office Assistant      | -        | -       | -        |
-| Tactical Response     | -        | -       | -        |
-| Urban Response        | -        | -       | -        |
-| Cat Ears              | -        | -       | -        |
-| Extradimensional Suit | -        | -       | -        |
+| Civilian              | Started   | -       | -        |
+| Director's Suit       | -         | -       | -        |
+| Expedition Gear       | -         | -       | -        |
+| Golden Suit           | -         | -       | -        |
+| Janitor's Assistant   | -         | -       | -        |
+| Office Assistant      | -         | -       | -        |
+| Tactical Response     | -         | -       | -        |
+| Urban Response        | -         | -       | -        |
+| Cat Ears              | -         | -       | -        |
+| Extradimensional Suit | -         | -       | -        |
 
 - Please note that these retextures will conflict with other retextures listed above, so please make sure that you have removed any `[retexture]_n.tex`, `[retexture]_s.tex` and/or `[retexture]_sa.tex` that belong to other retextures.
 - In some instances you may have to exit and boot up the game again to see results. 
