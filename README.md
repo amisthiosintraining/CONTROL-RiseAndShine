@@ -38,8 +38,8 @@ Delete the following:
 
 | Outfit                | Status    | Release | File     |
 |-----------------------|:---------:|:-------:|:--------:|
-| Astral Dive           | Expanding | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/astraldive_100) |
-| Asynchronous Suit     | Ongoing   | -       | -        |
+| Astral Dive           | Complete  | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/astraldive_100) |
+| Asynchronous Suit     | Complete  | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/AsynchronousSuit_v100) |
 | Candidate P7          | Expanding | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/candidatep7_100) |
 | Civilian              | Started   | -       | -        |
 | Director's Suit       | -         | -       | -        |
