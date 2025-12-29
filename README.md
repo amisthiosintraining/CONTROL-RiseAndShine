@@ -49,7 +49,15 @@ Delete the following:
 | Office Assistant      | -         | -       | -        |
 | Tactical Response     | -         | -       | -        |
 | Urban Response        | -         | -       | -        |
+
+#### The Foundation Expansion
+| Outfit                | Status    | Release | File     |
+|-----------------------|:---------:|:-------:|:--------:|
 | Cat Ears              | -         | -       | -        |
+
+#### AWE Expansion
+| Outfit | Status    | Release | File     |
+|-----------------------|:---------:|:-------:|:--------:|
 | Extradimensional Suit | -         | -       | -        |
 
 - Please note that these retextures will conflict with other retextures listed above, so please make sure that you have removed any `[retexture]_n.tex`, `[retexture]_s.tex` and/or `[retexture]_sa.tex` that belong to other retextures.
