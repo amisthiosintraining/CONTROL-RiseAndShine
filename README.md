@@ -38,9 +38,9 @@ Delete the following:
 
 | Outfit                | Status    | Release | File     |
 |-----------------------|:---------:|:-------:|:--------:|
-| Astral Dive           | Complete  | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/astraldive_100) |
+| Astral Dive           | Complete  | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/AstralDive_v110) |
 | Asynchronous Suit     | Complete  | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/AsynchronousSuit_v100) |
-| Candidate P7          | Expanding | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/candidatep7_100) |
+| Candidate P7          | Complete  | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/CandidateP7_v110) |
 | Civilian              | Started   | -       | -        |
 | Director's Suit       | -         | -       | -        |
 | Expedition Gear       | -         | -       | -        |
