@@ -1,6 +1,6 @@
 <img width="1400" alt="CTRL-AMIT-Rise_and_Shine-Nexus_Banner_2" src="https://github.com/user-attachments/assets/678026e7-6f27-467c-8a64-6d4303144c7a" />
 
-# CONTROL <Rise & Shine>
+# CONTROL | <Rise & Shine>
 A little shiny approach to recolours.
 
 Instructions for installation
