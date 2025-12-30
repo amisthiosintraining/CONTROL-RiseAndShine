@@ -36,29 +36,29 @@ Delete the following:
 
 ## Status
 
-| Outfit                | Status    | Release | File     |
-|-----------------------|:---------:|:-------:|:--------:|
-| Astral Dive           | Complete  | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/AstralDive_v110) |
-| Asynchronous Suit     | Complete  | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/AsynchronousSuit_v100) |
-| Candidate P7          | Complete  | Yes     | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/CandidateP7_v110) |
-| Civilian              | Started   | -       | -        |
-| Director's Suit       | -         | -       | -        |
-| Expedition Gear       | -         | -       | -        |
-| Golden Suit           | -         | -       | -        |
-| Janitor's Assistant   | -         | -       | -        |
-| Office Assistant      | -         | -       | -        |
-| Tactical Response     | -         | -       | -        |
-| Urban Response        | -         | -       | -        |
+| Outfit                | Status    | File     |
+|-----------------------|:---------:|:--------:|
+| Astral Dive           | Complete  | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/AstralDive_v110) |
+| Asynchronous Suit     | Complete  | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/AsynchronousSuit_v100) |
+| Candidate P7          | Complete  | [Download](https://github.com/amisthiosintraining/CONTROL-RiseAndShine/releases/tag/CandidateP7_v110) |
+| Civilian              | Started   | -        |
+| Director's Suit       | -         | -        |
+| Expedition Gear       | -         | -        |
+| Golden Suit           | -         | -        |
+| Janitor's Assistant   | -         | -        |
+| Office Assistant      | -         | -        |
+| Tactical Response     | -         | -        |
+| Urban Response        | -         | -        |
 
 #### The Foundation Expansion
-| Outfit                | Status    | Release | File     |
-|-----------------------|:---------:|:-------:|:--------:|
-| Cat Ears              | -         | -       | -        |
+| Outfit                | Status    | File     |
+|-----------------------|:---------:|:--------:|
+| Cat Ears              | -         | -        |
 
 #### AWE Expansion
-| Outfit | Status    | Release | File     |
-|-----------------------|:---------:|:-------:|:--------:|
-| Extradimensional Suit | -         | -       | -        |
+| Outfit                | Status    | File     |
+|-----------------------|:---------:|:--------:|
+| Extradimensional Suit | -         | -        |
 
 - Please note that these retextures will conflict with other retextures listed above, so please make sure that you have removed any `[retexture]_n.tex`, `[retexture]_s.tex` and/or `[retexture]_sa.tex` that belong to other retextures.
 - In some instances you may have to exit and boot up the game again to see results. 
