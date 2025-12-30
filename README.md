@@ -25,14 +25,37 @@ Delete the following:
 
 **ASTRL DIVE**
 <br>`data_pc\textures\characters\andro\jesse\accessories\jesse_superhero_accessories_d.tex`
+<br>`data_pc\textures\characters\andro\jesse\accessories\jesse_superhero_accessories_s.tex`
+<br>`data_pc\textures\characters\andro\jesse\accessories\jesse_superhero_accessories_sa.tex`
 <br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_superhero_bottom_d.tex`
+<br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_superhero_bottom_s.tex`
+<br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_superhero_bottom_sa.tex`
 <br>`data_pc\textures\characters\andro\jesse\hands\jesse_superhero_hands_d.tex`
+<br>`data_pc\textures\characters\andro\jesse\hands\jesse_superhero_hands_s.tex`
+<br>`data_pc\textures\characters\andro\jesse\hands\jesse_superhero_hands_sa.tex`
 <br>`data_pc\textures\characters\andro\jesse\tops\jesse_superhero_top_d.tex`
+<br>`data_pc\textures\characters\andro\jesse\tops\jesse_superhero_top_s.tex`
+<br>`data_pc\textures\characters\andro\jesse\tops\jesse_superhero_top_sa.tex`
+
+**ASYNCHRONOUS SUIT**
+<br>`data_pc\textures\characters\andro\jesse\accessories\jesse_master_accessories_d.tex`
+<br>`data_pc\textures\characters\andro\jesse\accessories\jesse_master_accessories_n.tex`
+<br>`data_pc\textures\characters\andro\jesse\accessories\jesse_master_accessories_s.tex`
+<br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_master_bottom_d.tex`
+<br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_master_bottom_n.tex`
+<br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_master_bottom_s.tex`
+<br>`data_pc\textures\characters\andro\jesse\tops\jesse_master_top_d.tex`
+<br>`data_pc\textures\characters\andro\jesse\tops\jesse_master_top_n.tex`
+<br>`data_pc\textures\characters\andro\jesse\tops\jesse_master_top_s.tex`
 
 **CANDIDATE P7**
 <br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_sweatpants_d.tex`
+<br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_sweatpants_n.tex`
+<br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_sweatpants_s.tex`
 <br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_sweatsuit_socks_d.tex`
 <br>`data_pc\textures\characters\andro\jesse\tops\jesse_sweatshirt_d.tex`
+<br>`data_pc\textures\characters\andro\jesse\tops\jesse_sweatshirt_n.tex`
+<br>`data_pc\textures\characters\andro\jesse\tops\jesse_sweatshirt_s.tex`
 
 ## Status
 
